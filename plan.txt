@@ -1,0 +1,17 @@
+Okay so what do I all need to create?
+
+An app where a user can create a "one-to-all" text post.
+
+1: Post dialog box
+2: List of all posts
+
+Do I *really* need a db? I don't know tbh, I think probably.
+
+- Relational or nah?
+- I think yes relational? The DB posting and fetching is going to be the most frustrating part of this for me
+-- I am not great at db's yet. This is one of my biggest weaknesses. This will be a good project to fix that.
+
+Timeline:
+End of the week of 11/17 -> Basic UI built, db chosen and orm maybe?
+End of the week 11/25 -> db fully sorted, Posting and fetching post data 100% done
+End of the week 11/2 -> app done.
