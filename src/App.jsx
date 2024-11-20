@@ -1,11 +1,12 @@
 import "./App.css";
-import Post from "./components/Post";
 import Header from "./components/Header";
+import MessageForm from "./components/MessageForm";
+
 function App() {
   return (
     <>
       <Header></Header>
-      <Post author="Evelyn Hill" message="Test"></Post>
+      <MessageForm />
     </>
   );
 }
